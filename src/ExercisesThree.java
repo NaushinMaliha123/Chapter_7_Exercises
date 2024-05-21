@@ -25,7 +25,17 @@ public class ExercisesThree {
             if (values[i] < smallest) {
                 smallest = values[i];
             }
+        }
 
+        for(int i = 0;i < currentSize;i++){
+            System.out.print(values[i]);
+            if(values[i] == largest){
+                System.out.print(" <== largest value");
+            }
+            if(values[i] == smallest){
+                System.out.print(" <== smallest value");
+            }
+            System.out.println();
         }
     }
 }
