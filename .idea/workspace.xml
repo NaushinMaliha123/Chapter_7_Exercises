@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6dd1cc9-1eae-4c92-8c18-f7646bb6e897" name="Changes" comment="commit done">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTenDataSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseThirteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwelve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwentyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwentyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseTwentyThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseFourteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercisesFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExerciseFourteen.executor": "Run",
     "Application.ExerciseTenDataSet.executor": "Run",
     "Application.ExerciseThirteen.executor": "Run",
     "Application.ExerciseTwelve.executor": "Run",
@@ -75,9 +67,9 @@
     "onboarding.tips.debug.path": "D:/java/Chapter_7_Practice_Exercises/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExerciseThirteen">
-    <configuration name="ExerciseTenDataSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseTenDataSet" />
+  <component name="RunManager" selected="Application.ExerciseFourteen">
+    <configuration name="ExerciseFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseFourteen" />
       <module name="Chapter_7_Practice_Exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciseFourteen" />
         <item itemvalue="Application.ExerciseThirteen" />
         <item itemvalue="Application.ExerciseTwelve" />
         <item itemvalue="Application.ExerciseTwentyFive" />
         <item itemvalue="Application.ExerciseTwentyThree" />
-        <item itemvalue="Application.ExerciseTenDataSet" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716266617224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit done">
+      <option name="closed" value="true" />
+      <created>1716644542436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716644542436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
